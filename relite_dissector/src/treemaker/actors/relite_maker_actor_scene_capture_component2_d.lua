@@ -1,0 +1,9 @@
+-- Generated class tree-maker scaffold from recovered NetField metadata.
+local maker={ClassName="SceneCaptureComponent2D",ClassPath="/Script/Engine.SceneCaptureComponent2D",SuperClass="SceneCaptureComponent"}
+function maker.makePayload(relite,r,parsed,root,context)
+	return relite.actorMaker.makeRecoveredClassPayload(relite,r,parsed,root,maker.ClassName,context)
+end
+function maker.makeNewActor(relite,r,payload,root)
+	return relite.actorMaker.makeRecoveredNewActor(relite,r,payload,root,maker.ClassName)
+end
+return maker
