@@ -3,7 +3,7 @@
 
 extract to `C:\Program Files\Wireshark\plugins\<version>\relite_dissector` before starting wireshark
 
-<img width="1024" height="620" alt="image" src="https://github.com/user-attachments/assets/2bd61ae4-c356-4d32-82d1-6d4ec36cf9c0" />
+<img width="1719" height="1040" alt="image" src="https://github.com/user-attachments/assets/43ce241b-e25d-4607-8a68-b92d2cccad0d" />
 
 Target PUBG Lite Version: 1.4.2.681
 
