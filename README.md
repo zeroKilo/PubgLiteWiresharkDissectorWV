@@ -7,4 +7,4 @@ extract to `C:\Program Files\Wireshark\plugins\<version>\relite_dissector` befor
 
 Target PUBG Lite Version: 1.4.2.681
 
-Important note: encryption is not implemented yet, disable it for recordings
+Important note: encryption is not implemented yet, disable it for recordings. Generated with Chat GPT-5.6 Sol from my pdb file.
